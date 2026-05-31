@@ -1,0 +1,65 @@
+[ {
+  "id" : "59e57408-22b8-4270-bbd9-d7083ec43599",
+  "name" : "champignon frais",
+  "stock" : 4,
+  "unit" : "kg",
+  "available" : true,
+  "notes" : "",
+  "lowStockThreshold" : 3
+}, {
+  "id" : "56fb1bad-aeb0-46a6-8129-940315a77b83",
+  "name" : "pates",
+  "stock" : 5,
+  "unit" : "kg",
+  "available" : true,
+  "notes" : "",
+  "lowStockThreshold" : 4
+}, {
+  "id" : "3f393272-e2a0-404b-9cc9-54cad7d0726a",
+  "name" : "poissons",
+  "stock" : 1,
+  "unit" : "kg",
+  "available" : true,
+  "notes" : "",
+  "lowStockThreshold" : null
+}, {
+  "id" : "a64e5604-e0ec-46ff-a6bc-ac20398e104f",
+  "name" : "pates",
+  "stock" : 1,
+  "unit" : "kg",
+  "available" : true,
+  "notes" : "",
+  "lowStockThreshold" : null
+}, {
+  "id" : "84b5ece7-a576-4c52-be6f-1896f02cca89",
+  "name" : "escalope",
+  "stock" : 1,
+  "unit" : "kg",
+  "available" : true,
+  "notes" : "",
+  "lowStockThreshold" : 5
+}, {
+  "id" : "67c61f23-13a5-43db-8bd4-feed38ec4348",
+  "name" : "crème fraiche",
+  "stock" : 13,
+  "unit" : "pièce",
+  "available" : true,
+  "notes" : "",
+  "lowStockThreshold" : 5
+}, {
+  "id" : "c73b41f1-e599-49c3-9cc0-60fdb6e600e8",
+  "name" : "viandes",
+  "stock" : 4,
+  "unit" : "kg",
+  "available" : true,
+  "notes" : "",
+  "lowStockThreshold" : 5
+}, {
+  "id" : "9e7256fe-96d1-4c05-96a5-242086f4c133",
+  "name" : "tomates",
+  "stock" : 3,
+  "unit" : "kg",
+  "available" : true,
+  "notes" : "",
+  "lowStockThreshold" : 5
+} ]

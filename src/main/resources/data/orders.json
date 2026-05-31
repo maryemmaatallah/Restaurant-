@@ -1,0 +1,655 @@
+[ {
+  "orderNumber" : "NOIR-26-486066",
+  "clientId" : "f14bc3a9-47ef-4d33-8471-8f7e2e1d8848",
+  "customerName" : "Maryem Maatallah",
+  "customerEmail" : "maryem@gmail.com",
+  "status" : "confirmed",
+  "eta" : "35 mins",
+  "deliveryAddress" : "La Marsa",
+  "deliveryTime" : "19:00",
+  "contactPhone" : "21111111",
+  "notes" : "",
+  "kitchenNotes" : null,
+  "chefId" : null,
+  "chefName" : null,
+  "kitchenStaffId" : null,
+  "kitchenStaffName" : null,
+  "deliveryStaffId" : null,
+  "deliveryStaffName" : null,
+  "undeliveredReason" : null,
+  "rejectedReason" : null,
+  "steps" : [ {
+    "label" : "Order Confirmed",
+    "time" : "Your order has been received",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Being Prepared",
+    "time" : "Our kitchen is preparing your order",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Out for Delivery",
+    "time" : "Delivery rider will contact you",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Delivered",
+    "time" : "Enjoy your meal",
+    "state" : "pending",
+    "icon" : "fa-check"
+  } ],
+  "items" : [ {
+    "id" : 1,
+    "name" : "Bisque de Homard",
+    "quantity" : 1,
+    "price" : 88.0,
+    "image" : "https://i.pinimg.com/1200x/f3/fc/bd/f3fcbdde57bca58abdc9cbd29709379b.jpg"
+  }, {
+    "id" : 2,
+    "name" : "Foie Gras Poêlé",
+    "quantity" : 4,
+    "price" : 108.0,
+    "image" : "https://i.pinimg.com/1200x/35/c3/64/35c3641f60c9be5c3c130c58dfd2087a.jpg"
+  }, {
+    "id" : 3,
+    "name" : "Velouté de Champignons",
+    "quantity" : 1,
+    "price" : 58.0,
+    "image" : "https://i.pinimg.com/1200x/07/dc/03/07dc03a67f79beeeec9ee1fd5ae42f6d.jpg"
+  } ],
+  "total" : 578.0,
+  "createdAt" : "2026-05-31T23:18:06.067039100Z"
+}, {
+  "orderNumber" : "NOIR-26-009711",
+  "clientId" : "f14bc3a9-47ef-4d33-8471-8f7e2e1d8848",
+  "customerName" : "Maryem Maatallah",
+  "customerEmail" : "maryem@gmail.com",
+  "status" : "confirmed",
+  "eta" : "35 mins",
+  "deliveryAddress" : "La Marsa",
+  "deliveryTime" : "19:00",
+  "contactPhone" : "21111111",
+  "notes" : "",
+  "kitchenNotes" : null,
+  "chefId" : null,
+  "chefName" : null,
+  "kitchenStaffId" : null,
+  "kitchenStaffName" : null,
+  "deliveryStaffId" : null,
+  "deliveryStaffName" : null,
+  "undeliveredReason" : null,
+  "rejectedReason" : null,
+  "steps" : [ {
+    "label" : "Order Confirmed",
+    "time" : "Your order has been received",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Being Prepared",
+    "time" : "Our kitchen is preparing your order",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Out for Delivery",
+    "time" : "Delivery rider will contact you",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Delivered",
+    "time" : "Enjoy your meal",
+    "state" : "pending",
+    "icon" : "fa-check"
+  } ],
+  "items" : [ {
+    "id" : 9,
+    "name" : "Crème Brûlée",
+    "quantity" : 1,
+    "price" : 40.0,
+    "image" : "https://i.pinimg.com/1200x/bb/8d/54/bb8d545149d24dc471e1b48d8206bbec.jpg"
+  }, {
+    "id" : 8,
+    "name" : "Fondant au Chocolat",
+    "quantity" : 1,
+    "price" : 45.0,
+    "image" : "https://i.pinimg.com/736x/c2/b0/59/c2b059bf26348bcb5cbc504a62f4054e.jpg"
+  }, {
+    "id" : 7,
+    "name" : "Risotto aux Truffes",
+    "quantity" : 1,
+    "price" : 115.0,
+    "image" : "https://i.pinimg.com/1200x/c7/7e/76/c77e763d84352ec719ef9b748c0166fa.jpg"
+  }, {
+    "id" : 4,
+    "name" : "Boeuf Wellington",
+    "quantity" : 3,
+    "price" : 165.0,
+    "image" : "https://i.pinimg.com/1200x/fe/6a/b1/fe6ab1b0684a83d86269d33286aa1896.jpg"
+  }, {
+    "id" : 2,
+    "name" : "Foie Gras Poêlé",
+    "quantity" : 4,
+    "price" : 108.0,
+    "image" : "https://i.pinimg.com/1200x/35/c3/64/35c3641f60c9be5c3c130c58dfd2087a.jpg"
+  } ],
+  "total" : 1127.0,
+  "createdAt" : "2026-05-31T23:10:09.711471800Z"
+}, {
+  "orderNumber" : "NOIR-26-559530",
+  "clientId" : "f14bc3a9-47ef-4d33-8471-8f7e2e1d8848",
+  "customerName" : "Maryem Maatallah",
+  "customerEmail" : "maryem@gmail.com",
+  "status" : "confirmed",
+  "eta" : "35 mins",
+  "deliveryAddress" : "La Marsa",
+  "deliveryTime" : "19:00",
+  "contactPhone" : "21111111",
+  "notes" : "",
+  "kitchenNotes" : null,
+  "chefId" : null,
+  "chefName" : null,
+  "kitchenStaffId" : null,
+  "kitchenStaffName" : null,
+  "deliveryStaffId" : null,
+  "deliveryStaffName" : null,
+  "undeliveredReason" : null,
+  "rejectedReason" : null,
+  "steps" : [ {
+    "label" : "Order Confirmed",
+    "time" : "Your order has been received",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Being Prepared",
+    "time" : "Our kitchen is preparing your order",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Out for Delivery",
+    "time" : "Delivery rider will contact you",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Delivered",
+    "time" : "Enjoy your meal",
+    "state" : "pending",
+    "icon" : "fa-check"
+  } ],
+  "items" : [ {
+    "id" : 2,
+    "name" : "Foie Gras Poêlé",
+    "quantity" : 2,
+    "price" : 108.0,
+    "image" : "https://i.pinimg.com/1200x/35/c3/64/35c3641f60c9be5c3c130c58dfd2087a.jpg"
+  }, {
+    "id" : 3,
+    "name" : "Velouté de Champignons",
+    "quantity" : 2,
+    "price" : 58.0,
+    "image" : "https://i.pinimg.com/1200x/07/dc/03/07dc03a67f79beeeec9ee1fd5ae42f6d.jpg"
+  }, {
+    "id" : 4,
+    "name" : "Boeuf Wellington",
+    "quantity" : 2,
+    "price" : 165.0,
+    "image" : "https://i.pinimg.com/1200x/fe/6a/b1/fe6ab1b0684a83d86269d33286aa1896.jpg"
+  } ],
+  "total" : 662.0,
+  "createdAt" : "2026-05-31T22:45:59.530841800Z"
+}, {
+  "orderNumber" : "NOIR-26-361767",
+  "clientId" : "f14bc3a9-47ef-4d33-8471-8f7e2e1d8848",
+  "customerName" : "Maryem Maatallah",
+  "customerEmail" : "maryem@gmail.com",
+  "status" : "confirmed",
+  "eta" : "35 mins",
+  "deliveryAddress" : "La Marsa",
+  "deliveryTime" : "19:00",
+  "contactPhone" : "21111111",
+  "notes" : "",
+  "kitchenNotes" : null,
+  "chefId" : null,
+  "chefName" : null,
+  "kitchenStaffId" : null,
+  "kitchenStaffName" : null,
+  "deliveryStaffId" : null,
+  "deliveryStaffName" : null,
+  "undeliveredReason" : null,
+  "rejectedReason" : null,
+  "steps" : [ {
+    "label" : "Order Confirmed",
+    "time" : "Your order has been received",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Being Prepared",
+    "time" : "Our kitchen is preparing your order",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Out for Delivery",
+    "time" : "Delivery rider will contact you",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Delivered",
+    "time" : "Enjoy your meal",
+    "state" : "pending",
+    "icon" : "fa-check"
+  } ],
+  "items" : [ {
+    "id" : 1,
+    "name" : "Bisque de Homard",
+    "quantity" : 1,
+    "price" : 88.0,
+    "image" : "https://i.pinimg.com/1200x/f3/fc/bd/f3fcbdde57bca58abdc9cbd29709379b.jpg"
+  }, {
+    "id" : 2,
+    "name" : "Foie Gras Poêlé",
+    "quantity" : 1,
+    "price" : 108.0,
+    "image" : "https://i.pinimg.com/1200x/35/c3/64/35c3641f60c9be5c3c130c58dfd2087a.jpg"
+  }, {
+    "id" : 3,
+    "name" : "Velouté de Champignons",
+    "quantity" : 1,
+    "price" : 58.0,
+    "image" : "https://i.pinimg.com/1200x/07/dc/03/07dc03a67f79beeeec9ee1fd5ae42f6d.jpg"
+  }, {
+    "id" : 4,
+    "name" : "Boeuf Wellington",
+    "quantity" : 1,
+    "price" : 165.0,
+    "image" : "https://i.pinimg.com/1200x/fe/6a/b1/fe6ab1b0684a83d86269d33286aa1896.jpg"
+  }, {
+    "id" : 5,
+    "name" : "Saint-Jacques Poêlées",
+    "quantity" : 1,
+    "price" : 140.0,
+    "image" : "https://i.pinimg.com/1200x/6d/24/40/6d2440e2b7fc8a8f82c29807973c93f1.jpg"
+  }, {
+    "id" : 7,
+    "name" : "Risotto aux Truffes",
+    "quantity" : 1,
+    "price" : 115.0,
+    "image" : "https://i.pinimg.com/1200x/c7/7e/76/c77e763d84352ec719ef9b748c0166fa.jpg"
+  }, {
+    "id" : 8,
+    "name" : "Fondant au Chocolat",
+    "quantity" : 1,
+    "price" : 45.0,
+    "image" : "https://i.pinimg.com/736x/c2/b0/59/c2b059bf26348bcb5cbc504a62f4054e.jpg"
+  }, {
+    "id" : 9,
+    "name" : "Crème Brûlée",
+    "quantity" : 1,
+    "price" : 40.0,
+    "image" : "https://i.pinimg.com/1200x/bb/8d/54/bb8d545149d24dc471e1b48d8206bbec.jpg"
+  }, {
+    "id" : 10,
+    "name" : "Tarte Tatin",
+    "quantity" : 1,
+    "price" : 42.0,
+    "image" : "https://i.pinimg.com/1200x/d8/6a/8a/d86a8a71c339772c232474c16a24d6d7.jpg"
+  } ],
+  "total" : 801.0,
+  "createdAt" : "2026-05-31T22:42:41.767357100Z"
+}, {
+  "orderNumber" : "NOIR-26-135009",
+  "clientId" : "f14bc3a9-47ef-4d33-8471-8f7e2e1d8848",
+  "customerName" : "Maryem Maatallah",
+  "customerEmail" : "maryem@gmail.com",
+  "status" : "confirmed",
+  "eta" : "35 mins",
+  "deliveryAddress" : "La Marsa",
+  "deliveryTime" : "19:00",
+  "contactPhone" : "21111111",
+  "notes" : "",
+  "kitchenNotes" : null,
+  "chefId" : null,
+  "chefName" : null,
+  "kitchenStaffId" : null,
+  "kitchenStaffName" : null,
+  "deliveryStaffId" : null,
+  "deliveryStaffName" : null,
+  "undeliveredReason" : null,
+  "rejectedReason" : null,
+  "steps" : [ {
+    "label" : "Order Confirmed",
+    "time" : "Your order has been received",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Being Prepared",
+    "time" : "Our kitchen is preparing your order",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Out for Delivery",
+    "time" : "Delivery rider will contact you",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Delivered",
+    "time" : "Enjoy your meal",
+    "state" : "pending",
+    "icon" : "fa-check"
+  } ],
+  "items" : [ {
+    "id" : 1,
+    "name" : "Bisque de Homard",
+    "quantity" : 1,
+    "price" : 88.0,
+    "image" : "https://i.pinimg.com/1200x/f3/fc/bd/f3fcbdde57bca58abdc9cbd29709379b.jpg"
+  }, {
+    "id" : 2,
+    "name" : "Foie Gras Poêlé",
+    "quantity" : 1,
+    "price" : 108.0,
+    "image" : "https://i.pinimg.com/1200x/35/c3/64/35c3641f60c9be5c3c130c58dfd2087a.jpg"
+  }, {
+    "id" : 3,
+    "name" : "Velouté de Champignons",
+    "quantity" : 1,
+    "price" : 58.0,
+    "image" : "https://i.pinimg.com/1200x/07/dc/03/07dc03a67f79beeeec9ee1fd5ae42f6d.jpg"
+  }, {
+    "id" : 4,
+    "name" : "Boeuf Wellington",
+    "quantity" : 1,
+    "price" : 165.0,
+    "image" : "https://i.pinimg.com/1200x/fe/6a/b1/fe6ab1b0684a83d86269d33286aa1896.jpg"
+  }, {
+    "id" : 7,
+    "name" : "Risotto aux Truffes",
+    "quantity" : 1,
+    "price" : 115.0,
+    "image" : "https://i.pinimg.com/1200x/c7/7e/76/c77e763d84352ec719ef9b748c0166fa.jpg"
+  }, {
+    "id" : 6,
+    "name" : "Magret de Canard",
+    "quantity" : 1,
+    "price" : 120.0,
+    "image" : "https://i.pinimg.com/736x/c0/f2/6a/c0f26a4c05ff228be22ca915327692a1.jpg"
+  }, {
+    "id" : 9,
+    "name" : "Crème Brûlée",
+    "quantity" : 1,
+    "price" : 40.0,
+    "image" : "https://i.pinimg.com/1200x/bb/8d/54/bb8d545149d24dc471e1b48d8206bbec.jpg"
+  }, {
+    "id" : 8,
+    "name" : "Fondant au Chocolat",
+    "quantity" : 1,
+    "price" : 45.0,
+    "image" : "https://i.pinimg.com/736x/c2/b0/59/c2b059bf26348bcb5cbc504a62f4054e.jpg"
+  }, {
+    "id" : 10,
+    "name" : "Tarte Tatin",
+    "quantity" : 1,
+    "price" : 42.0,
+    "image" : "https://i.pinimg.com/1200x/d8/6a/8a/d86a8a71c339772c232474c16a24d6d7.jpg"
+  } ],
+  "total" : 781.0,
+  "createdAt" : "2026-05-31T22:38:55.009206200Z"
+}, {
+  "orderNumber" : "NOIR-26-892413",
+  "clientId" : "f14bc3a9-47ef-4d33-8471-8f7e2e1d8848",
+  "customerName" : "Maryem Maatallah",
+  "customerEmail" : "maryem@gmail.com",
+  "status" : "confirmed",
+  "eta" : "35 mins",
+  "deliveryAddress" : "La Marsa",
+  "deliveryTime" : "19:00",
+  "contactPhone" : "21111111",
+  "notes" : "",
+  "kitchenNotes" : null,
+  "chefId" : null,
+  "chefName" : null,
+  "kitchenStaffId" : null,
+  "kitchenStaffName" : null,
+  "deliveryStaffId" : null,
+  "deliveryStaffName" : null,
+  "undeliveredReason" : null,
+  "rejectedReason" : null,
+  "steps" : [ {
+    "label" : "Order Confirmed",
+    "time" : "Your order has been received",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Being Prepared",
+    "time" : "Our kitchen is preparing your order",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Out for Delivery",
+    "time" : "Delivery rider will contact you",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Delivered",
+    "time" : "Enjoy your meal",
+    "state" : "pending",
+    "icon" : "fa-check"
+  } ],
+  "items" : [ {
+    "id" : 1,
+    "name" : "Bisque de Homard",
+    "quantity" : 1,
+    "price" : 88.0,
+    "image" : "https://i.pinimg.com/1200x/f3/fc/bd/f3fcbdde57bca58abdc9cbd29709379b.jpg"
+  }, {
+    "id" : 2,
+    "name" : "Foie Gras Poêlé",
+    "quantity" : 1,
+    "price" : 108.0,
+    "image" : "https://i.pinimg.com/1200x/35/c3/64/35c3641f60c9be5c3c130c58dfd2087a.jpg"
+  }, {
+    "id" : 4,
+    "name" : "Boeuf Wellington",
+    "quantity" : 1,
+    "price" : 165.0,
+    "image" : "https://i.pinimg.com/1200x/fe/6a/b1/fe6ab1b0684a83d86269d33286aa1896.jpg"
+  }, {
+    "id" : 7,
+    "name" : "Risotto aux Truffes",
+    "quantity" : 1,
+    "price" : 115.0,
+    "image" : "https://i.pinimg.com/1200x/c7/7e/76/c77e763d84352ec719ef9b748c0166fa.jpg"
+  }, {
+    "id" : 8,
+    "name" : "Fondant au Chocolat",
+    "quantity" : 2,
+    "price" : 45.0,
+    "image" : "https://i.pinimg.com/736x/c2/b0/59/c2b059bf26348bcb5cbc504a62f4054e.jpg"
+  }, {
+    "id" : 9,
+    "name" : "Crème Brûlée",
+    "quantity" : 2,
+    "price" : 40.0,
+    "image" : "https://i.pinimg.com/1200x/bb/8d/54/bb8d545149d24dc471e1b48d8206bbec.jpg"
+  }, {
+    "id" : 10,
+    "name" : "Tarte Tatin",
+    "quantity" : 1,
+    "price" : 42.0,
+    "image" : "https://i.pinimg.com/1200x/d8/6a/8a/d86a8a71c339772c232474c16a24d6d7.jpg"
+  } ],
+  "total" : 688.0,
+  "createdAt" : "2026-05-31T22:34:52.413773300Z"
+}, {
+  "orderNumber" : "NOIR-26-769439",
+  "clientId" : "f14bc3a9-47ef-4d33-8471-8f7e2e1d8848",
+  "customerName" : "Maryem Maatallah",
+  "customerEmail" : "maryem@gmail.com",
+  "status" : "confirmed",
+  "eta" : "35 mins",
+  "deliveryAddress" : "La Marsa",
+  "deliveryTime" : "19:00",
+  "contactPhone" : "21111111",
+  "notes" : "",
+  "kitchenNotes" : null,
+  "chefId" : null,
+  "chefName" : null,
+  "kitchenStaffId" : null,
+  "kitchenStaffName" : null,
+  "deliveryStaffId" : null,
+  "deliveryStaffName" : null,
+  "undeliveredReason" : null,
+  "rejectedReason" : null,
+  "steps" : [ {
+    "label" : "Order Confirmed",
+    "time" : "Your order has been received",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Being Prepared",
+    "time" : "Our kitchen is preparing your order",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Out for Delivery",
+    "time" : "Delivery rider will contact you",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Delivered",
+    "time" : "Enjoy your meal",
+    "state" : "pending",
+    "icon" : "fa-check"
+  } ],
+  "items" : [ {
+    "id" : 3,
+    "name" : "Velouté de Champignons",
+    "quantity" : 2,
+    "price" : 58.0,
+    "image" : "https://i.pinimg.com/1200x/07/dc/03/07dc03a67f79beeeec9ee1fd5ae42f6d.jpg"
+  } ],
+  "total" : 116.0,
+  "createdAt" : "2026-05-31T22:16:09.439046300Z"
+}, {
+  "orderNumber" : "NOIR-26-597900",
+  "clientId" : "f14bc3a9-47ef-4d33-8471-8f7e2e1d8848",
+  "customerName" : "Maryem Maatallah",
+  "customerEmail" : "maryem@gmail.com",
+  "status" : "confirmed",
+  "eta" : "35 mins",
+  "deliveryAddress" : "La Marsa",
+  "deliveryTime" : "19:00",
+  "contactPhone" : "21111111",
+  "notes" : "",
+  "kitchenNotes" : null,
+  "chefId" : null,
+  "chefName" : null,
+  "kitchenStaffId" : null,
+  "kitchenStaffName" : null,
+  "deliveryStaffId" : null,
+  "deliveryStaffName" : null,
+  "undeliveredReason" : null,
+  "rejectedReason" : null,
+  "steps" : [ {
+    "label" : "Order Confirmed",
+    "time" : "Your order has been received",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Being Prepared",
+    "time" : "Our kitchen is preparing your order",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Out for Delivery",
+    "time" : "Delivery rider will contact you",
+    "state" : "pending",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Delivered",
+    "time" : "Enjoy your meal",
+    "state" : "pending",
+    "icon" : "fa-check"
+  } ],
+  "items" : [ {
+    "id" : 4,
+    "name" : "Boeuf Wellington",
+    "quantity" : 3,
+    "price" : 165.0,
+    "image" : "https://i.pinimg.com/1200x/fe/6a/b1/fe6ab1b0684a83d86269d33286aa1896.jpg"
+  }, {
+    "id" : 9,
+    "name" : "Crème Brûlée",
+    "quantity" : 1,
+    "price" : 40.0,
+    "image" : "https://i.pinimg.com/1200x/bb/8d/54/bb8d545149d24dc471e1b48d8206bbec.jpg"
+  } ],
+  "total" : 535.0,
+  "createdAt" : "2026-05-31T22:13:17.900230600Z"
+}, {
+  "orderNumber" : "NOIR-26-474064",
+  "clientId" : "1969d4ab-ee98-4e04-bb9a-d60ab742a053",
+  "customerName" : "Ilef Mhamdi",
+  "customerEmail" : "ilefmhamdi@gmail.com",
+  "status" : "completed",
+  "eta" : "35 mins",
+  "deliveryAddress" : "Soliman, Nabeul",
+  "deliveryTime" : "19:00",
+  "contactPhone" : "+21612345678",
+  "notes" : "",
+  "kitchenNotes" : "Delivery confirmed by client",
+  "chefId" : null,
+  "chefName" : null,
+  "kitchenStaffId" : "elena_chef",
+  "kitchenStaffName" : "elena_chef",
+  "deliveryStaffId" : "yara_delivery",
+  "deliveryStaffName" : "yara_delivery",
+  "undeliveredReason" : null,
+  "rejectedReason" : null,
+  "steps" : [ {
+    "label" : "Order Confirmed",
+    "time" : "Your order has been received",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Being Prepared",
+    "time" : "Our kitchen is preparing your order",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Out for Delivery",
+    "time" : "Delivery rider will contact you",
+    "state" : "done",
+    "icon" : "fa-check"
+  }, {
+    "label" : "Delivered",
+    "time" : "Enjoy your meal",
+    "state" : "done",
+    "icon" : "fa-check"
+  } ],
+  "items" : [ {
+    "id" : 3,
+    "name" : "Velouté de Champignons",
+    "quantity" : 1,
+    "price" : 58.0,
+    "image" : "https://i.pinimg.com/1200x/07/dc/03/07dc03a67f79beeeec9ee1fd5ae42f6d.jpg"
+  }, {
+    "id" : 6,
+    "name" : "Magret de Canard",
+    "quantity" : 1,
+    "price" : 120.0,
+    "image" : "https://i.pinimg.com/736x/c0/f2/6a/c0f26a4c05ff228be22ca915327692a1.jpg"
+  }, {
+    "id" : 8,
+    "name" : "Fondant au Chocolat",
+    "quantity" : 1,
+    "price" : 45.0,
+    "image" : "https://i.pinimg.com/736x/c2/b0/59/c2b059bf26348bcb5cbc504a62f4054e.jpg"
+  }, {
+    "id" : 11,
+    "name" : "Champagne Rosé",
+    "quantity" : 1,
+    "price" : 58.0,
+    "image" : "https://i.pinimg.com/1200x/bb/ba/d5/bbbad52eae68095cdd54bbd41f57386a.jpg"
+  } ],
+  "total" : 281.0,
+  "createdAt" : "2026-05-30T10:54:34.064008400Z"
+} ]

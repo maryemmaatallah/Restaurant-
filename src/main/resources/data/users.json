@@ -1,0 +1,43 @@
+[ {
+  "id" : "f14bc3a9-47ef-4d33-8471-8f7e2e1d8848",
+  "firstName" : "Maryem",
+  "lastName" : "Maatallah",
+  "email" : "maryem@gmail.com",
+  "salt" : "b28817ee1c1ac4e47aa7f8ab298a24da",
+  "passwordHash" : "7efddb3d4f927ace25a9d87fbdd465de3e8121ae03b652a938c87c752609c7eadc89a1fe09286e3032f9714264533d7c95f01c4fda8c9e811ea1962e50a3d88d",
+  "createdAt" : "2026-05-29T18:33:07.534787500Z",
+  "lastLoginAt" : "2026-05-31T23:21:00.304522700Z",
+  "profilePicture" : null,
+  "isPro" : false,
+  "proSince" : null,
+  "phone" : null,
+  "birthDate" : null
+}, {
+  "id" : "bbcbc687-077f-4600-911b-b546d9fe559f",
+  "firstName" : "Lili",
+  "lastName" : "mh",
+  "email" : "lilimh@gmail.com",
+  "salt" : "697ed708297775cf0d9589cbc79e86cf",
+  "passwordHash" : "20ac224a6f47fa69192289b4031fc657bb97686eacdcd0bd98cf9fedf961b5977d7fd6524db35eb356e935bfe66e549374769f116bc260e6209d9d395f5ebcd6",
+  "createdAt" : "2026-05-29T15:09:57.767106300Z",
+  "lastLoginAt" : "2026-05-29T15:09:57.767106300Z",
+  "profilePicture" : null,
+  "isPro" : false,
+  "proSince" : null,
+  "phone" : "",
+  "birthDate" : ""
+}, {
+  "id" : "1969d4ab-ee98-4e04-bb9a-d60ab742a053",
+  "firstName" : "Ilef",
+  "lastName" : "Mhamdi",
+  "email" : "ilefmhamdi@gmail.com",
+  "salt" : "793c0948a1a4802286fc202a5726e573",
+  "passwordHash" : "7b6bdbc316eec13667440b7a7fa1b7110adc746bc24f186877ffa0c76c3b8912e975ced68aabf83da2427f24339d0d60d8ff6914fc8d016eddf18df06b89136d",
+  "createdAt" : "2026-05-29T01:02:07.987125100Z",
+  "lastLoginAt" : "2026-05-30T09:04:23.031471800Z",
+  "profilePicture" : null,
+  "isPro" : true,
+  "proSince" : "2026-05-29T14:47:08.785587500Z",
+  "phone" : "+21612345678",
+  "birthDate" : "2003-11-02"
+} ]
